@@ -1006,3 +1006,8 @@ span.statcounter {
   bottom: 4px;
   pointer-events: none;
 }
+
+.downloadLink {
+	color: gray;
+	font-size: 24px;
+}
