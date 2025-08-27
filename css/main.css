@@ -1008,6 +1008,7 @@ span.statcounter {
 }
 
 .downloadLink {
-	color: gray;
-	font-size: 24px;
+	color: white !important;
+	font-size: 20px;
+	font-style: italic;
 }
